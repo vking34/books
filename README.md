@@ -17,7 +17,6 @@ Please feel free to contribute!
     - [Redis](./database/redis)
     - [MongoDB](./database/mongo)
     - [Cassandra](./database/cassandra)
-- [Design](./design)
 - [Development Practice](./development-practice)
 - [Devops](./devops)
     - [Container](./devops/container)
@@ -36,6 +35,7 @@ Please feel free to contribute!
     - [Refactoring](./programming/refactoring)
 - [Soft Skill](./soft-skill)
 - [Software Engineering](./software-engineering)
+- [System Design](./system-design)
 - [Testing](./testing)
 
 ## 
